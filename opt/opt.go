@@ -2,6 +2,7 @@ package opt
 
 // Boolean flag types with constants
 type ZeroFlag bool
+
 const (
 	Zero   ZeroFlag = true
 	NoZero ZeroFlag = false
